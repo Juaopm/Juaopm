@@ -76,8 +76,8 @@ const joaoPedro = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juaopm&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de João Pedro" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juaopm&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas por João Pedro" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Juaopm&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de João Pedro" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Juaopm&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas por João Pedro" />
 
 <br />
 
