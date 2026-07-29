@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmotam/)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedromachado830@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juaopm)
-![Visualizações](https://komarev.com/ghpvc/?username=Juaopm&color=70a5fd&style=for-the-badge&label=VISITAS)
+![Disponível para estágio](https://img.shields.io/badge/EST%C3%81GIO-DISPON%C3%8DVEL-70A5FD?style=for-the-badge)
 
 </div>
 
